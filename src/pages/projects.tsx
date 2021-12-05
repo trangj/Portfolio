@@ -11,9 +11,9 @@ const projects = () => {
             <div className="flex flex-col gap-6 mt-4">
                 <a href="https://github.com/trangj/Crappit" target="_blank" rel="noreferrer" className="p-8 rounded-3xl from-blue-400 to-green-500 bg-gradient-to-b ">
                     <div className="flex flex-col">
-                        <h2 className="font-bold">
+                        <h3 className="font-bold">
                             Crappit
-                        </h2>
+                        </h3>
                         <ul className="font-semibold pt-4 list-disc list-inside text-lg">
                             <li>
                                 A Reddit-like clone developed with Node.js and PostgresSQL as the back-end and React.js as the front-end.
@@ -29,9 +29,9 @@ const projects = () => {
                 </a>
                 <a href="https://github.com/trangj/CrappitMobile" target="_blank" rel="noreferrer" className="p-8 rounded-3xl from-blue-500 to-red-600 bg-gradient-to-b">
                     <div className="flex flex-col">
-                        <h2 className="font-bold break-all">
+                        <h3 className="font-bold break-all">
                             CrappitMobile
-                        </h2>
+                        </h3>
                         <ul className="font-semibold pt-4 list-disc list-inside text-lg">
                             <li>
                                 A mobile version of Crappit built with React Native.
@@ -48,9 +48,9 @@ const projects = () => {
                 <div className="flex sm:flex-row flex-col gap-6">
                     <a href="https://github.com/trangj/Robbot" target="_blank" rel="noreferrer" className="p-8 rounded-3xl from-gray-800 to-blue-900 bg-gradient-to-b">
                         <div className="flex flex-col">
-                            <h2 className="font-bold">
+                            <h3 className="font-bold">
                                 Robbot
-                            </h2>
+                            </h3>
                             <ul className="font-semibold pt-4 list-disc list-inside text-lg">
                                 <li>
                                     Discord bot developed using Node.js and the Discord.js framework. The bot is hosted on Heroku and is actively used, with about 200 commands being used a month.
@@ -63,9 +63,9 @@ const projects = () => {
                     </a>
                     <a href="https://github.com/trangj/GrandExchangeGist" target="_blank" rel="noreferrer" className="p-8 rounded-3xl from-gray-600 to-gray-900 bg-gradient-to-b">
                         <div className="flex flex-col">
-                            <h2 className="font-bold break-all">
+                            <h3 className="font-bold break-all">
                                 GrandExchangeGist
-                            </h2>
+                            </h3>
                             <ul className="font-semibold pt-4 list-disc list-inside text-lg">
                                 <li>
                                     Developed using Runescape’s OSRS Grand Exchange API and Node.js to retrieve in-game item data, suchas price history and trends, and display it using React.

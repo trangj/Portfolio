@@ -8,12 +8,26 @@ const experience = () => {
                 <title>Joshua Trang: Experience</title>
                 <meta title="description" content="My work experience" />
             </Head>
-            <div className="flex flex-col divide-y gap-4 mt-4">
+            <div className="flex flex-col divide-y gap-8 mt-4">
                 <div className="flex flex-col gap-2">
-                    <h2 className="font-bold">
+                    <h3 className="font-bold mt-2">
+                        Rockport Networks
+                    </h3>
+                    <h6 className="font-semibold text-gray-500">Software Developer | Sep 2021 – Dec 2021 | Ottawa, Ontario, Canada</h6>
+                    <ul className="list-disc list-inside">
+                        <li>
+                            Developed Rockport's SPA and design system using React/Reagent.
+                        </li>
+                        <li>
+                            Implemented new components / revised existing components in the design system.
+                        </li>
+                    </ul>
+                </div>
+                <div className="flex flex-col gap-2">
+                    <h3 className="font-bold mt-2">
                         Bank of Canada
-                    </h2>
-                    <h6 className="font-semibold text-gray-500">Software Developer | Jan 2021 – Aug 2021 | Ottawa, Ontario, Canada</h6>
+                    </h3>
+                    <h6 className="font-semibold text-gray-500">Software Developer | Jan 2021 – Sep 2021 | Ottawa, Ontario, Canada</h6>
                     <ul className="list-disc list-inside">
                         <li>
                             Developed Bank of Canada’s website portfolio and design system using WordPress, LAMP stack, JavaScript, and CSS.
@@ -27,9 +41,9 @@ const experience = () => {
                     </ul>
                 </div>
                 <div className="flex flex-col gap-2">
-                    <h2 className="font-bold">
+                    <h3 className="font-bold mt-2">
                         Windsor Essex Rotaract Club
-                    </h2>
+                    </h3>
                     <h6 className="font-semibold text-gray-500">Software Developer | Sep 2020 – Dec 2020 | Windsor, Ontario, Canada</h6>
                     <ul className="list-disc list-inside">
                         <li>
