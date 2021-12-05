@@ -16,7 +16,7 @@ const experience = () => {
                     <h6 className="font-semibold text-gray-500">Software Developer | Sep 2021 – Dec 2021 | Ottawa, Ontario, Canada</h6>
                     <ul className="list-disc list-inside">
                         <li>
-                            Developed Rockport's SPA and design system using React/Reagent.
+                            Developed Rockport&apos;s SPA and design system using React/Reagent.
                         </li>
                         <li>
                             Implemented new components / revised existing components in the design system.
