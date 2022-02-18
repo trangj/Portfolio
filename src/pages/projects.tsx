@@ -39,9 +39,6 @@ const projects = () => {
                             <li>
                                 Functional on iOS and Android.
                             </li>
-                            <li>
-                                Conducted unit/feature testing using Behat and PHPUnit.
-                            </li>
                         </ul>
                     </div>
                 </a>
