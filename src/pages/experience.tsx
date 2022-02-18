@@ -11,6 +11,12 @@ const experience = () => {
             <div className="flex flex-col divide-y gap-8 mt-4">
                 <div className="flex flex-col gap-2">
                     <h3 className="font-bold mt-2">
+                        Vidyard
+                    </h3>
+                    <h6 className="font-semibold text-gray-500">Software Developer | May 2022 – Aug 2022 | Waterloo, Ontario, Canada</h6>
+                </div>
+                <div className="flex flex-col gap-2">
+                    <h3 className="font-bold mt-2">
                         Rockport Networks
                     </h3>
                     <h6 className="font-semibold text-gray-500">Software Developer | Sep 2021 – Dec 2021 | Ottawa, Ontario, Canada</h6>
