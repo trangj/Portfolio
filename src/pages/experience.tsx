@@ -46,20 +46,6 @@ const experience = () => {
                         </li>
                     </ul>
                 </div>
-                <div className="flex flex-col gap-2">
-                    <h3 className="font-bold mt-2">
-                        Windsor Essex Rotaract Club
-                    </h3>
-                    <h6 className="font-semibold text-gray-500">Software Developer | Sep 2020 – Dec 2020 | Windsor, Ontario, Canada</h6>
-                    <ul className="list-disc list-inside">
-                        <li>
-                            Developed and maintained the organization’s official online portfolio in HTML, CSS and JS.
-                        </li>
-                        <li>
-                            Website displays organization’s upcoming projects and meetings, along with information and contact pages.
-                        </li>
-                    </ul>
-                </div>
             </div>
         </>
     );
