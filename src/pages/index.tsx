@@ -12,7 +12,7 @@ export default function Home() {
           Hi, my name is Josh!
         </h2>
         <h5>
-          I&apos;m a software developer at Vidyard and a student at the University of Windsor
+          I&apos;m a software developer and a student at the University of Windsor
         </h5>
         <div className="flex flex-row gap-4 mt-4 text-gray-500">
           <a href="https://www.linkedin.com/in/joshuatrang/" target="_blank" rel="noreferrer" className="hover:underline">
