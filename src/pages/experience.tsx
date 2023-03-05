@@ -27,6 +27,7 @@ const experience = () => {
                         <li>
                             Maintained and expanded Vidyard’s custom React video player for cross-browser compatibility.
                         </li>
+                    </ul>
                 </div>
                 <div className="flex flex-col gap-2">
                     <h3 className="font-bold mt-2">
