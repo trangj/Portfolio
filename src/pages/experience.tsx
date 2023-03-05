@@ -14,6 +14,19 @@ const experience = () => {
                         Vidyard
                     </h3>
                     <h6 className="font-semibold text-gray-500">Software Developer | May 2022 – Aug 2022 | Waterloo, Ontario, Canada</h6>
+                    <ul className="list-disc list-inside">
+                        <li>
+                            Implemented and collaborated in UI/UX design of Vidyard Rooms in Vue and Ruby on Rails.
+                        </li>
+                        <li>
+                            Expanded Vidyard’s React Chrome extension to interface with Gmail and Vidyard’s GraphQL API.
+                        </li>
+                        <li>
+                            Improved Vidyard’s authentication micro-service for seamless authentication flow between different services in Ruby on Rails and Node.js.
+                        </li>
+                        <li>
+                            Maintained and expanded Vidyard’s custom React video player for cross-browser compatibility.
+                        </li>
                 </div>
                 <div className="flex flex-col gap-2">
                     <h3 className="font-bold mt-2">
@@ -22,10 +35,13 @@ const experience = () => {
                     <h6 className="font-semibold text-gray-500">Software Developer | Sep 2021 – Dec 2021 | Ottawa, Ontario, Canada</h6>
                     <ul className="list-disc list-inside">
                         <li>
-                            Developed Rockport&apos;s SPA and design system using React/Reagent.
+                            Revised existing and implemented new components to Rockport’s design system for use for other developers in JavaScript, CSS, and HTML.
                         </li>
                         <li>
-                            Implemented new components / revised existing components in the design system.
+                            Developed Rockport’s single-page application using React and Reagent.
+                        </li>
+                        <li>
+                            Implemented views incorporating front-end data visualization of network traffic using data from Rockport’s API.
                         </li>
                     </ul>
                 </div>
@@ -36,13 +52,16 @@ const experience = () => {
                     <h6 className="font-semibold text-gray-500">Software Developer | Jan 2021 – Sep 2021 | Ottawa, Ontario, Canada</h6>
                     <ul className="list-disc list-inside">
                         <li>
-                            Developed Bank of Canada’s website portfolio and design system using WordPress, LAMP stack, JavaScript, and CSS.
+                            Developed Bank of Canada’s website using WordPress, LAMP stack, and JavaScript.
                         </li>
                         <li>
-                            Worked on front-end data visualization of data using jQuery and CSS.
+                            Expanded front-end data visualization of Bank of Canada’s API using jQuery, CSS, and Rechart.
                         </li>
                         <li>
-                            Conducted unit/feature testing using Behat and PHPUnit.
+                            Improved Bank of Canada’s design system and component library to be WCAG 2.0 compliant.
+                        </li>
+                        <li>
+                            Performed and maintained unit/feature testing using Behat and PHPUnit.
                         </li>
                     </ul>
                 </div>
