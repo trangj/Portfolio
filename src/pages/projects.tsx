@@ -38,7 +38,7 @@ const projects = () => {
                         </div>
                     </Card>
                 </a>
-                <div className='flex gap-6'>
+                <div className='flex md:flex-row flex-col gap-6'>
                     <a href="https://github.com/trangj/Robbot" target="_blank" rel="noreferrer" className='flex'>
                         <Card className='from-gray-800 to-blue-900 bg-gradient-to-b'>
                             <div className="flex flex-col">
